@@ -7,6 +7,17 @@ Análisis de indicadores clave de desempeño (KPIs) aplicado a un manifiesto rea
 ## 📊 Dashboard en vivo
 👉 https://josean03.github.io/kpi-reservations-dashboard/
 
+## 📸 Vista del dashboard
+![Dashboard completo](dashboard_full.png)
+
+### Gráficos incluidos
+| | |
+|---|---|
+| ![Reservas por día](charts/chart_reservas_dia.png) | ![Revenue por día](charts/chart_revenue_dia.png) |
+| ![Tarifa por clase](charts/chart_tarifa_clase.png) | ![Mix de flota](charts/chart_mix_flota.png) |
+| ![Reservas por canal](charts/chart_canal.png) | ![Duración de renta](charts/chart_duracion.png) |
+| ![Lead time](charts/chart_leadtime.png) | |
+
 ## 🔑 KPIs principales de la semana
 | KPI | Valor |
 |---|---|
